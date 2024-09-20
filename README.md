@@ -98,7 +98,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## ✨ Acknowledgments
 
-Thanks to the [OpenAI](https://openai.com/) team for inspiring this project idea, and to all the developers who helped shape the web with tools like HTML, CSS, and JavaScript.
+Thanks to DigitalBhem team for inspiring this project idea to shape the web with tools like HTML, CSS, and JavaScript.
 ```
 
 ### Key changes:
